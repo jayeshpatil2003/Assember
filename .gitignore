@@ -1,0 +1,8 @@
+out/
+*.class
+*.o
+error_report.txt
+symbol_table.txt
+TIT.txt
+.idea/
+.vscode/
